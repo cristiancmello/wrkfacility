@@ -1,1 +1,0 @@
-wsl --export Ubuntu-20.04 data\distros\ubuntu2004\rootfs.v1_0_0.tar

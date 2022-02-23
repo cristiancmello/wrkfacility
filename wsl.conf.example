@@ -1,0 +1,13 @@
+[automount]
+enabled=true
+
+# Sets the `/etc/fstab` file to be processed when a WSL distribution is launched.
+mountFsTab = true
+
+[user]
+default=wrk
+
+# Set whether WSL supports interop process like launching Windows apps and adding path variables. Setting these to false will block the launch of Windows processes and block adding $PATH environment variables.
+[interop]
+enabled = true
+appendWindowsPath = true
