@@ -25,6 +25,22 @@ wsl --import Ubuntu-20.04 . ubuntu2004.v{x}_{y}_{z}.tar
 wsl --shutdown
 ```
 
+### Windows Terminal Profile (optional)
+
+Customize your terminal profile to enable access to linux's home folder.
+
+Example:
+```json
+{
+  "commandline": "wsl.exe -d Ubuntu-20.04 --cd \"~\"",
+  "guid": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}",
+  "hidden": false,
+  "name": "Ubuntu-20.04",
+  "source": "Windows.Terminal.Wsl",
+  "startingDirectory": "%USERPROFILE%"
+}
+```
+
 **NO PASSWORD REQUIRED TO AUTH WITH SUDO. DEVELOPMENT PURPOSE ONLY.**
 
 ### Export Image
