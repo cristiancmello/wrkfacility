@@ -6,7 +6,11 @@ WSL2 Workspace. Without password, **straight to the point**.
 
 - Ubuntu 20.04 LTS
 
-## Ubuntu 20.04 LTS
+## Download Published Images
+
+### Ubuntu 20.04.4 LTS (Focal Fossa)
+
+* [Ubuntu 20.04.4 LTS WSL2 Image](https://github.com/cristiancmello/wrkfacility/releases/download/v1.0.0-pre/ubuntu2004.v1_0_0.tar.7z)
 
 **NO PASSWORD REQUIRED TO AUTH WITH SUDO.**
 **DEVELOPMENT PURPOSE ONLY**
