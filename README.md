@@ -76,6 +76,13 @@ appendWindowsPath = true
 - User: wrk
 - Password: wrk
 
+### CHANGELOG 1.2.0
+
+- zsh 5.8 (x86_64-ubuntu-linux-gnu)
+  + plugins: zsh-syntax-highlighting, git, zsh-syntax-highlighting, zsh-autosuggestions
+- oh-my-zsh
+- powerlevel10k theme pre-config
+
 ### CHANGELOG 1.0.0
 
 - User: wrk
@@ -86,3 +93,5 @@ appendWindowsPath = true
 - gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
 - GNU Make 4.2.1
 - Python 3.8.10
+
+
