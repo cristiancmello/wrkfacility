@@ -76,6 +76,12 @@ appendWindowsPath = true
 - User: wrk
 - Password: wrk
 
+### CHANGELOG 1.3.0
+
+- docker-compose version 1.29.2, build unknown
+- pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
+- fix dockerd to start automatically when logging
+
 ### CHANGELOG 1.2.0
 
 - zsh 5.8 (x86_64-ubuntu-linux-gnu)
