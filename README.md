@@ -10,7 +10,7 @@ WSL2 Workspace. Without password, **straight to the point**.
 
 ### Ubuntu 20.04.4 LTS (Focal Fossa)
 
-* [Ubuntu 20.04.4 LTS WSL2 Image](https://github.com/cristiancmello/wrkfacility/releases/download/v1.2.0/ubuntu2004.v1_2_0.tar.7z)
+* [Ubuntu 20.04.4 LTS WSL2 Image v1.3.0](https://github.com/cristiancmello/wrkfacility/releases/download/v1.3.0/ubuntu2004.v1_3_0.tar.7z)
 
 ### Import Image
 
